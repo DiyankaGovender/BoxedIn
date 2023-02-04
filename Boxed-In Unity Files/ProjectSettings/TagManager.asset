@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - key
+  - box
+  - enemy
+  - key_1
+  - key_2
+  - key_3
+  - box_room4
+  - key_4
+  - room_1
+  - room_2
+  - room_3
+  - room_4
+  - switch_room4
+  - switch_main1
+  - switch_main2
+  - mainRoom_1
+  - mainRoom_2
+  - box_outline1
+  - box_outline2
+  - key_5
+  - box_roomR1
+  - room_R1
+  - switch_R2
+  - enemy_1
+  - enemy_2
+  - enemy_3
+  - key_6
+  - room_R2
+  - box_roomR3
+  - box_outline3
+  - box_outline4
+  - enemy_4
+  - key_7
+  - room_R3
+  - enemy_5
+  - key_8
+  - box_roomR4
+  - box_outline5
+  - switch_R4
+  - room_R4
+  - spikes_UpperRoom2
+  - spikes_UpperRoom3
+  - spikes_UpperRoom4
+  - spikes_MainRoom
+  - spikes_RightRoom2
+  - spikes_RightRoom3
+  - spikes_RightRoom4
+  - enemy_6
+  - enemy_7
+  - enemy_8
+  - enemy_9
+  - enemy_10
+  - spikes
+  - spikes_LeftRoom
+  - switch_L1
+  - switch_L2
+  - switch_L3
+  - switch_L4
+  - key_9
+  - room_L
+  - room_Lower
+  - start_room
+  - triggerbox
+  - key_10
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Interactble
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
